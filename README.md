@@ -6,7 +6,6 @@ A beginner-friendly Java project that simulates a basic billing and checkout pro
 
  📌 Table of Contents
 
-- [📌 Table of Contents](#-table-of-contents)
 - [🚀 Features](#-features)
 - [🎯 Project Objectives](#-project-objectives)
 - [📁 Folder Structure](#-folder-structure)
