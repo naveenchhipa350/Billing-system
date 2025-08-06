@@ -82,10 +82,10 @@ Enter choice: 1
 
 Available Products:
 ID    Name        Price
-1     Soap        ₹20.00
-2     Shampoo     ₹80.00
-3     Toothpaste  ₹50.00
-4     Notebook    ₹30.00
+1     Apple       ₹20.00
+2     Eggs.       ₹80.00
+3     Milk.       ₹50.00
+4     Noteb    ₹30.00
 5     Pen         ₹10.00
 
 ============= BILL =============
