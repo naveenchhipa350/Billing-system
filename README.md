@@ -59,7 +59,7 @@ Java-Billing-System/ ├── Product.java         # Product class with id, nam
 - Java installed (JDK 8 or higher)
 - Terminal or Command Prompt
 
-           🧪 Step-by-step:
+           🧪 Step-by-step
 
 ```bash
 # Step 1: Compile all Java files
@@ -82,16 +82,16 @@ Enter choice: 1
 
 Available Products:
 ID    Name        Price
-1     Apple       ₹20.00
-2     Eggs.       ₹80.00
+1     Apple.      ₹80.00
+2     Eggs.       ₹20.00
 3     Milk.       ₹50.00
-4     Noteb    ₹30.00
-5     Pen         ₹10.00
+4     Bread.      ₹30.00
+5     Rice.       ₹10.00
 
 ============= BILL =============
 Product      Qty     Price   Total
-Soap         2       20.00   40.00
-Shampoo      1       80.00   80.00
+Apple        2       80.00   40.00
+Eggs         4       20.00   80.00
 --------------------------------
 Subtotal: ₹120.00
 GST (18%): ₹21.60
